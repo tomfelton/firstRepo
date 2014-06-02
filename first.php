@@ -4,4 +4,5 @@ echo "written on git 2";
 echo 'written in firstGit1';
 echo 'written in firstGit';
 echo 'written in firstGit';
+echo 'written in firstGit';
 
